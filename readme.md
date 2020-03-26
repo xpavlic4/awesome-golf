@@ -26,8 +26,8 @@
 - [GolfWRX](https://www.golfwrx.com) - The main site for players and recreational golfers.
 
 ### Podcasts
-- [PGA Tour podcast] On the mark
-- [No Laying Up] No Laying Up
+- [PGA Tour podcast](http://onthemark1.radio.pgatour.com/rss) On the mark
+- [No Laying Up](https://podcasts.apple.com/us/podcast/no-laying-up-golf-podcast/id880837011) No Laying Up
 
 ### Tools
 
