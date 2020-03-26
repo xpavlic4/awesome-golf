@@ -11,6 +11,7 @@
 
 - [Resources](#resources)
 	- [News](#news)
+	- [Podcasts](#podcasts)
 	- [Tools](#tools)
 	- [Videos](#videos)
 	- [Books](#books)
@@ -24,7 +25,7 @@
 - [Golf.com](http://golf.com) - The mainstream site for golf.
 - [GolfWRX](https://www.golfwrx.com) - The main site for players and recreational golfers.
 
-### Podcast
+### Podcasts
 - [PGA Tour podcast] On the mark
 - [No Laying Up] No Laying Up
 
